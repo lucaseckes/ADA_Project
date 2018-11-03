@@ -1,16 +1,32 @@
 # Title
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+We often hear stereotypes about food in the countries: “USA food contains more sugar and fat than elsewhere”, “Quantities are more important in the USA”, “Swiss people like to consume more local products than elsewhere”. How true are these stereotypes? That’s what we wanted to verify.
+In appearance globalization is getting stronger, but regarding food, shouldn’t we use the term ‘glocalisation’ instead? The term glocalisation would suggest a local adaptation of global products depending on consumer’s tastes. Indeed, even though in appearance we find almost the same products in supermarkets all around the world, are they ‘really’ the same? We know, for example, that the ‘same’ coca-cola bottle contains actually more sugar in America than in France. We wanted to know if such phenomenon is common and what are the main differences between the countries. 
+The Nutrition grade (from A to E) indicates how ‘good’ a given product is (more fibres, less sugar or salt, etc) and the ‘Nova group’ (from 1 to 4) indicates how transformed a product is. Those grades as well as the origin of the products, their composition and the types of packaging (eco-friendly or not) would be interesting to compare between different countries but also, eventually, in a given country between different brands.
+
 
 # Research questions
-A list of research questions you would like to address during the project. 
+Which countries have the healthiest alimentation?
+What are the differences in the composition of a given product in different countries? (ex: Coca-cola, Nutella…).
+Are some ingredients/nutriments/products notably more used in some countries?
+What countries consume more locally?
+
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+Open food fact database : https://world.openfoodfacts.org
+
+It is a CSV file of 1.6GB, not ‘very’ big, but big enough to be able to respond to numerous questions.
+The test file describing it is pretty clear. (https://static.openfoodfacts.org/data/data-fields.txt)
+We can also download smaller csv files from the website for a given country or a given product, if we want to deal with smaller dataset for specific questions.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+Define which countries we want to use for the comparison: we need to find countries with enough data available on the website to do a robust data analysis, and select the most relevant/interesting countries we want to focus on.
+Define precisely which data from the dataset we want to use, including the sub-datasets present on the website.
+Do the data cleaning.
+Explore the different possibilities for the data visualization.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+Is the idea fitting to the theme ‘data science for social good’?
+Is it necessary to use Spark for this project ?
+Do you think our project is too ambitious ? Not ambitious enough ?
