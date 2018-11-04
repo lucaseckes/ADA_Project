@@ -2,6 +2,7 @@
 
 # Abstract
 We often hear stereotypes about food in the countries: “USA food contains more sugar and fat than elsewhere”, “Quantities are more important in the USA”, “Swiss people like to consume more local products than elsewhere”. How true are these stereotypes? That’s what we wanted to verify.
+
 In appearance globalization is getting stronger, but regarding food, shouldn’t we use the term ‘glocalisation’ instead? The term glocalisation would suggest a local adaptation of global products depending on consumer’s tastes. Indeed, even though in appearance we find almost the same products in supermarkets all around the world, are they ‘really’ the same? We know, for example, that the ‘same’ coca-cola bottle contains actually more sugar in America than in France. We wanted to know if such phenomenon is common and what are the main differences between the countries. 
 The Nutrition grade (from A to E) indicates how ‘good’ a given product is (more fibres, less sugar or salt, etc) and the ‘Nova group’ (from 1 to 4) indicates how transformed a product is. Those grades as well as the origin of the products, their composition and the types of packaging (eco-friendly or not) would be interesting to compare between different countries but also, eventually, in a given country between different brands.
 
