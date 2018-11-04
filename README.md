@@ -9,8 +9,11 @@ The Nutrition grade (from A to E) indicates how ‘good’ a given product is (m
 
 # Research questions
 Which countries have the healthiest alimentation?
-What are the differences in the composition of a given product in different countries? (ex: Coca-cola, Nutella…).
+
+What are the differences in the composition of a given product in different countries? (ex: Coca-cola, Nutella…)
+
 Are some ingredients/nutriments/products notably more used in some countries?
+
 What countries consume more locally?
 
 
@@ -23,11 +26,16 @@ We can also download smaller csv files from the website for a given country or a
 
 # A list of internal milestones up until project milestone 2
 Define which countries we want to use for the comparison: we need to find countries with enough data available on the website to do a robust data analysis, and select the most relevant/interesting countries we want to focus on.
+
 Define precisely which data from the dataset we want to use, including the sub-datasets present on the website.
+
 Do the data cleaning.
+
 Explore the different possibilities for the data visualization.
 
 # Questions for TAa
 Is the idea fitting to the theme ‘data science for social good’?
+
 Is it necessary to use Spark for this project ?
+
 Do you think our project is too ambitious ? Not ambitious enough ?
