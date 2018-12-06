@@ -14,7 +14,7 @@ What are the differences in the composition of a given product in different coun
 
 Are some ingredients/nutriments/products notably more used in some countries?
 
-What countries consume more locally?
+Which countries consume more locally?
 
 
 # Dataset
