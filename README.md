@@ -4,6 +4,7 @@
 You will find our entire data story on: https://openfactfoodada.github.io/, you will acces on the different part of the project by cliking on the three questions at the end of the page.
 
 You can also have acces directly to the different parts:
+
 -Which countries have the healthiest alimentation?:https://openfactfoodada.github.io/Part1/
 -Are the differences in the composition of a given product in different countries?:https://openfactfoodada.github.io/Part2/
 -Which countries consume more locally?:https://openfactfoodada.github.io/part3/
