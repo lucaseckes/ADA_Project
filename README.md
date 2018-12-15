@@ -2,11 +2,8 @@
 
 # Data Story
 You will find our entire data story on: https://openfactfoodada.github.io/, you will acces on the different part of the project by cliking on the three questions at the end of the page.
-https://openfactfoodada.github.io/Part1/
-Here you have also the direct links to the three parts:
--Which countries have the healthiest alimentation ? : https://openfactfoodada.github.io/Part1/
--Are there differences of composition for a given product in different countries ? : https://openfactfoodada.github.io/Part2/
--
+
+d in the countries: “USA food contains more sugar and fat than elsewhere”, “Quantities are more important in the USA”, “Swiss people like to co
 
 # Abstract
 We often hear stereotypes about food in the countries: “USA food contains more sugar and fat than elsewhere”, “Quantities are more important in the USA”, “Swiss people like to consume more local products than elsewhere”. How true are these stereotypes? That’s what we wanted to verify.
