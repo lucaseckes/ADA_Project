@@ -1,7 +1,7 @@
 # Food throughout countries: are our food habits conditioned by our living location?
 
-# Abstract
-We often hear stereotypes about food in the countries: “USA food contains more sugar and fat than elsewhere”, “Quantities are more important in the USA
+# Data Story
+You will find our entire data story on: https://openfactfoodada.github.io/
 
 # Abstract
 We often hear stereotypes about food in the countries: “USA food contains more sugar and fat than elsewhere”, “Quantities are more important in the USA”, “Swiss people like to consume more local products than elsewhere”. How true are these stereotypes? That’s what we wanted to verify.
