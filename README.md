@@ -1,6 +1,9 @@
 # Food throughout countries: are our food habits conditioned by our living location?
 
 # Abstract
+We often hear stereotypes about food in the countries: “USA food contains more sugar and fat than elsewhere”, “Quantities are more important in the USA
+
+# Abstract
 We often hear stereotypes about food in the countries: “USA food contains more sugar and fat than elsewhere”, “Quantities are more important in the USA”, “Swiss people like to consume more local products than elsewhere”. How true are these stereotypes? That’s what we wanted to verify.
 
 In appearance globalization is getting stronger, but regarding food, shouldn’t we use the term ‘glocalisation’ instead? The term glocalisation would suggest a local adaptation of global products depending on consumer’s tastes. Indeed, even though in appearance we find almost the same products in supermarkets all around the world, are they ‘really’ the same? We know, for example, that the ‘same’ coca-cola bottle contains actually more sugar in America than in France. We wanted to know if such phenomenon is common and what are the main differences between the countries. 
