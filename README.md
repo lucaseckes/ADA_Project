@@ -14,6 +14,8 @@ https://openfactfoodada.github.io/Part2/
 -Which countries consume more locally? :
 https://openfactfoodada.github.io/part3/
 
+(Just in case: one of the group member had sometimes difficulties to display the first graph of the first web page using Safari. In this ever happens to you, juste use chrome: it always worked perfectly on it.)
+
 ## Contribution of group members:
 
 Lucas: Third part of the project (which countries consume more locally: data crawling, calculating distances, pie chart, maps, preliminary data analysis)
