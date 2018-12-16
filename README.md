@@ -17,12 +17,15 @@ https://openfactfoodada.github.io/part3/
 ## Contribution of group members:
 
 Lucas: Third part of the project (which countries consume more locally: calculating distances, pie chart, maps, preliminary data analysis)
+
 Frédéric: Creation and design of the website, data crawling of the second part of the project, graph of the first part of the project
+
 Marine: Redaction of the website (introduction, descriptive analysis...), data crawling of the fisrt part of the project, maps of the second part of the project
 
 ### Final presentation:
 
 Frédéric and Marine: Design of the poster
+
 Lucas: Speaker
 
 # Abstract
