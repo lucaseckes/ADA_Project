@@ -5,13 +5,13 @@ You will find our entire data story on: https://openfactfoodada.github.io/, you 
 
 You can also have acces directly to the different parts:
 
--Which countries have the healthiest alimentation?:
+-Which countries have the healthiest alimentation? :
 https://openfactfoodada.github.io/Part1/
 
--Are the differences in the composition of a given product in different countries?:
+-Are the differences in the composition of a given product in different countries? :
 https://openfactfoodada.github.io/Part2/
 
--Which countries consume more locally?:
+-Which countries consume more locally? :
 https://openfactfoodada.github.io/part3/
 
 ## Contribution of group members:
